@@ -91,7 +91,7 @@
   max-width: 90%;
   padding-right: 15px;
   padding-left: 15px;
-  margin: 2vw auto;
+  margin: 20px auto;
 }
 .site-header .container::after{
   content: "";
@@ -170,6 +170,8 @@
     position: absolute;
     top:16px;
     right: 15px;
+    background: none;
+    border: none;
   }
   .site-header .site-nav-toggle span{
     display: block;
